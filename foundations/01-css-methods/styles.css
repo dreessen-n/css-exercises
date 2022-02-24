@@ -1,0 +1,9 @@
+/* Style sheet for TOP_foundations_01-css-methods */
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
