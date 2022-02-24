@@ -1,0 +1,10 @@
+/* style sheet for TOP Foundations 04-chaining-selectors */
+
+.avatar.proportioned {
+    width: 300px;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
