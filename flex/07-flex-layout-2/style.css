@@ -50,10 +50,13 @@ body {
 
 .sidebar {
   flex: 1 0 auto;
+  padding: 16px;
 }
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 li {
@@ -69,15 +72,13 @@ a {
 .items {
   display: flex;
   flex-flow: row wrap;
-  justify-content: left;
-  align-items: center;
+  padding: 32px;
 }
 
 .card {
   width: 300px;
-  height: 300px;
-  padding: 32px;
-  margin: 20px;
+  padding: 16px;
+  margin: 16px;
 }
 
 .footer {
